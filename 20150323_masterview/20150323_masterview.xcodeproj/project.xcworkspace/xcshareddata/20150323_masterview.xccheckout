@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3A8BBB29-665F-4428-94AE-0183759926A3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>20150323_masterview</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>493CBABB43314118745E4104CCC7B90C4B3D1E24</key>
+		<string>https://github.com/japan4415/StudyMeeting_swift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>20150323_masterview/20150323_masterview.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>493CBABB43314118745E4104CCC7B90C4B3D1E24</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/japan4415/StudyMeeting_swift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>493CBABB43314118745E4104CCC7B90C4B3D1E24</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>493CBABB43314118745E4104CCC7B90C4B3D1E24</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Swift_for_Study</string>
+		</dict>
+	</array>
+</dict>
+</plist>

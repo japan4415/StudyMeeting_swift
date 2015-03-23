@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20150323_masterview/DetailViewController.swift"
+            timestampString = "448793655.771676"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0150323_masterview.DetailViewController.__deallocating_deinit"
+                  moduleName = "20150323_masterview"
+                  urlString = "file:///Users/raiden000discord/Documents/%E7%A0%94%E7%A9%B6%E5%AE%A4%E9%96%A2%E9%80%A3/Swift_for_Study/20150323_masterview/20150323_masterview/DetailViewController.swift"
+                  timestampString = "448793655.977444"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "@objc _0150323_masterview.DetailViewController.__ivar_destroyer"
+                  moduleName = "20150323_masterview"
+                  urlString = "file:///Users/raiden000discord/Documents/%E7%A0%94%E7%A9%B6%E5%AE%A4%E9%96%A2%E9%80%A3/Swift_for_Study/20150323_masterview/20150323_masterview/DetailViewController.swift"
+                  timestampString = "448793655.979439"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
