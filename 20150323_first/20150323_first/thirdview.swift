@@ -33,7 +33,7 @@ class thirdview: UIViewController,UITableViewDataSource,UITableViewDelegate {
     }
     
     func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath:NSIndexPath) -> UITableViewCell{
-        var cell = UITableViewCell(style:.Default, reuseIdentifier:"mycell");
+        var cell = UITableViewCell(style:.Subtitle, reuseIdentifier:"mycell");
         
         var fontname = fontName_array[indexPath.row];
         cell.accessoryType = .Checkmark;
